@@ -1,11 +1,11 @@
 # NumPy-Exercises-Solutions
 
-### What is NumPy?
+### What is NumPy ?
 <p align="justify">
-NumPy stands for Numeric Python which is a python fundamental package for the scientific computation and processing. It provides a multidimensional array object, also various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation and much more. The NumPy package was created by **Travis Oliphant** in 2005 through injecting the features of the ancestor module Numeric into another module Numarray. 
+NumPy stands for Numeric Python which is a python fundamental package for the scientific computation and processing. It provides a multidimensional array object, also various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, <b>discrete Fourier transforms</b>, <b>basic linear algebra</b>, <b>basic statistical operations</b>, random simulation and much more. The NumPy package was created by <b>Travis Oliphant</b> in 2005 through injecting the features of the ancestor module Numeric into another module Numarray. 
 </p>
 
-### The need of NumPy?
+### The Need of NumPy ?
 
 <p align="justify">
 With the revolution of data science, data analysis libraries like NumPy, SciPy, Pandas, etc. have seen a lot of growth. With a much easier syntax than other programming languages, python is the first choice language for the data scientist.
