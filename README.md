@@ -1,7 +1,5 @@
 # NumPy-Exercises-Solutions
 
-## Introduction 👋
-
 ### What is NumPy?
 <p align="justify">
 NumPy stands for Numeric Python which is a python fundamental package for the scientific computation and processing. It provides a multidimensional array object, also various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation and much more. The NumPy package was created by **Travis Oliphant** in 2005 through injecting the features of the ancestor module Numeric into another module Numarray. 
@@ -25,7 +23,6 @@ There are the following advantages of using NumPy for data analysis.
 Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replacement to MATLAB as Python is more complete and easier programming language than MATLAB.
 </p>
 
----
 
 ## Table of contents 📋
 
