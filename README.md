@@ -14,7 +14,7 @@ NumPy stands for Numeric Python which is a python fundamental package for the sc
 |  2  | [How to <b>add</b>, <b>remove</b>, <b>search</b>, <b>sorte</b>, <b>reverse</b> element(s) in NumPy array]() |
 |  3  | [How to convert a nD array into a nD array (array shape manipulation)]() | 
 |  4  | [How to get information about arrays (memory size, shape, data type)]() | 
-|  5  | [How to access array, & iterate over array using Indexing & Slicing]() | 
+|  5  | [How to access, iterate over array using Indexing & Slicing]() | 
 |  6  | [How to perform basic arithmetic operations on arrays]() | 
 
 <!--
