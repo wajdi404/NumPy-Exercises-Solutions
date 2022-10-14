@@ -6,7 +6,7 @@ NumPy stands for Numeric Python which is a python fundamental package for the sc
 </p>
 
 
-## Table of contents 📋
+### Table of contents 📋
 
 |   # |     Exercises    |
 | --- | ---------------- |
